@@ -1,0 +1,13 @@
+* { margin: 0; padding: 0; font-family: 'Roboto', sans-serif; color: #212121; }
+*.monospace { font-family: 'Roboto Mono', monospace; }
+html { scroll-behavior: smooth; font-size: 16px; }
+nav { position: sticky; top: 0; background-color: #fefefe; z-index: 1; }
+h1 { margin-top: 0 !important; }
+article { width: 300px; }
+p { padding-bottom: 0.5rem; }
+#logo { height: 12rem; width: 12rem; }
+#products ul { columns: 3 180px; column-gap: 3rem; }
+#products li { white-space: pre-line; width: 180px; padding-bottom: 0.5rem; }
+#contact img { height: 1rem; width: 1rem; }
+#contact a { padding-bottom: 0.5rem; }
+#map img { height: 32rem; object-fit: none; object-position: center; }
