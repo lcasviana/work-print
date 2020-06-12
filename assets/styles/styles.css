@@ -7,5 +7,5 @@ html { scroll-behavior: smooth; font-size: 16px; }
 .three-column { columns: 3 20rem; column-gap: 3rem; }
 .icone { height: 1rem; width: 1rem; margin-right: 0.5rem; }
 ul { list-style-position: inside; }
-.x { max-width: calc(3 * 300px); }
-#infos { display: grid; grid-template-columns: repeat(auto-fill, 300px); }
+.x { max-width: calc(3 * 20rem); }
+#infos { display: grid; grid-template-columns: repeat(auto-fill, 20rem); }
