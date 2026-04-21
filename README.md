@@ -1,4 +1,4 @@
-# Gráfica Work Print BH
+# Work Print BH
 
 ## Contato
 
